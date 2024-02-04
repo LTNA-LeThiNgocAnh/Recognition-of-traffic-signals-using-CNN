@@ -6,3 +6,6 @@ German traffic signs often have a simple, easily recognizable design and are pla
 This data set includes nearly 50 thousand images divided into 43 folders of 43 types of signs. Each folder will have a CSV file containing information about the images in the folder. We pay attention to the following information:
 - ROI: is the image area containing the license plate with information X1, Y1, X2, Y2
 - ClassID: is the label of the license plate (from 0 to 42)
+
+![image](https://github.com/LTNA-LeThiNgocAnh/Recognition-of-traffic-signals-using-CNN/assets/158813104/010db160-4241-4d16-9cf2-9c06d4eb9385)
+![image](https://github.com/LTNA-LeThiNgocAnh/Recognition-of-traffic-signals-using-CNN/assets/158813104/7c37115c-b574-4562-b673-8f1db9705fb9)
