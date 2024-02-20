@@ -7,4 +7,4 @@ This data set includes nearly 50 thousand images divided into 43 folders of 43 t
 - ROI: is the image area containing the license plate with information X1, Y1, X2, Y2
 - ClassID: is the label of the license plate (from 0 to 42)
 
-Database: https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign?select=Meta
+Dataset: https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign?select=Meta
